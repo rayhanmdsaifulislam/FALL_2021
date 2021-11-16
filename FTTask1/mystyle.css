@@ -1,0 +1,47 @@
+.fname{
+    background-color: #F8DC71;
+}
+.lname{
+    background-color: #F8DC71;
+}
+.age{
+    background-color: #F8DC71;
+}
+.des{
+    background-color: #F8DC71;
+}
+.prel{
+    background-color: #F8DC71;
+}
+.email{
+    background-color: #F8DC71;
+}
+.pass{
+    background-color: #F8DC71;
+}
+.file{
+    background-color: #F8DC71;
+}
+div {
+    padding: 5px;
+    margin: 2px;
+  }
+  .button {
+    background-color: #038BBC;
+    color: white;
+    padding: 6px 15px;;
+    text-align: center;
+    border-radius: 12px;
+    display: inline-block;
+    font-size: 16px;
+  }
+.formcl{
+    background-color: #BAD2D4;
+}
+.resf{
+    background-color: #DBF0F3;
+}
+.head{
+    text-align: center;
+    background-color: #CCFEFD;
+}
